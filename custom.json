@@ -1,7 +1,7 @@
 
 {
   "registryName" : "custom-distro",
-  "lastUpdated" : "2022-07-18T10:10:00Z",
+  "lastUpdated" : "2022-07-18T11:30:00Z",
   "appliances" : [ {
     "id" : "hassos8",
     "name" : "Home Assistant OS 8",
@@ -12,8 +12,8 @@
     "checksum" : "sha256:0ec92286ecdcb0b4c207beb03dea0905cbb78290fc7c3606eb828693317b5759",
     "format" : "raw-xz",
     "version" : "8.3",
-    "mindisk" : 6000,
-    "minram" : 1024,
+    "mindisk" : 10000,
+    "minram" : 4000,
     "supported_hardware" : null,
     "incompat_hardware" : [ "traverse,ten64" ],
     "cloudinit" : false,
