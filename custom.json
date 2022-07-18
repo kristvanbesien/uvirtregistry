@@ -1,7 +1,7 @@
 
 {
   "registryName" : "custom-distro",
-  "lastUpdated" : "2022-07-18T10:00:00Z",
+  "lastUpdated" : "2022-07-18T10:10:00Z",
   "appliances" : [ {
     "id" : "hassos8",
     "name" : "Home Assistant OS 8",
