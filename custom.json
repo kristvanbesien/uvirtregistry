@@ -1,4 +1,5 @@
 
+{
   "registryName" : "custom-distro",
   "lastUpdated" : "2022-07-18T08:00:00Z",
   "appliances" : [ {
@@ -17,5 +18,6 @@
     "incompat_hardware" : [ "traverse,ten64" ],
     "cloudinit" : true,
     "properties" : { }
-  }
-]
+  } ],
+    "schemaLevel" : 2
+}
