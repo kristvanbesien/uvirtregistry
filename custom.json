@@ -1,0 +1,21 @@
+
+  "registryName" : "custom-distro",
+  "lastUpdated" : "2022-07-18T08:00:00Z",
+  "appliances" : [ {
+    "id" : "hassos8",
+    "name" : "Home Assistan OS 8",
+    "description" : "Home Assistant OS 8 ARM image",
+    "maintainer" : "homeassistant",
+    "download" : "https://github.com/home-assistant/operating-system/releases/download/8.3/haos_generic-aarch64-8.3.img.xz",
+    "link" : "https://www.home-assistant.io",
+    "checksum" : "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "format" : "raw-xy",
+    "version" : "8.3",
+    "mindisk" : 4096,
+    "minram" : 1024,
+    "supported_hardware" : null,
+    "incompat_hardware" : [ "traverse,ten64" ],
+    "cloudinit" : true,
+    "properties" : { }
+  }
+]
