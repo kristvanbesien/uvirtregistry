@@ -12,11 +12,11 @@
     "checksum" : "sha256:0ec92286ecdcb0b4c207beb03dea0905cbb78290fc7c3606eb828693317b5759",
     "format" : "raw-xz",
     "version" : "8.3",
-    "mindisk" : 4096,
+    "mindisk" : 6000,
     "minram" : 1024,
     "supported_hardware" : null,
     "incompat_hardware" : [ "traverse,ten64" ],
-    "cloudinit" : true,
+    "cloudinit" : false,
     "properties" : { }
   } ],
     "schemaLevel" : 2
