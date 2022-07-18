@@ -1,10 +1,10 @@
 
 {
   "registryName" : "custom-distro",
-  "lastUpdated" : "2022-07-18T08:00:00Z",
+  "lastUpdated" : "2022-07-18T09:00:00Z",
   "appliances" : [ {
     "id" : "hassos8",
-    "name" : "Home Assistan OS 8",
+    "name" : "Home Assistant OS 8",
     "description" : "Home Assistant OS 8 ARM image",
     "maintainer" : "homeassistant",
     "download" : "https://github.com/home-assistant/operating-system/releases/download/8.3/haos_generic-aarch64-8.3.img.xz",
