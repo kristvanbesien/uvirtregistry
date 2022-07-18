@@ -10,7 +10,7 @@
     "download" : "https://github.com/home-assistant/operating-system/releases/download/8.3/haos_generic-aarch64-8.3.img.xz",
     "link" : "https://www.home-assistant.io",
     "checksum" : "sha256:0ec92286ecdcb0b4c207beb03dea0905cbb78290fc7c3606eb828693317b5759",
-    "format" : "raw-xy",
+    "format" : "raw-xz",
     "version" : "8.3",
     "mindisk" : 4096,
     "minram" : 1024,
